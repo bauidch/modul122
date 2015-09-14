@@ -1,0 +1,23 @@
+[string] 	Zeichenkette
+[char]	Einzelner Buchstabe
+[byte]	8bit Buchstabe
+[int] 	32 bit Ganzzahl
+[long] 	64 bit Ganzzahl
+[bool]	Wert ist TRUE oder FALSE
+[decimal]	128 bit dezimal Zahl
+[single]	Einzel 32bit Fließkommazahlen
+[double]	Doppel 64bit Fließkommazahlen
+[DateTime]	Datum und Zeit
+[xml]	XML 
+[array]	Array
+[hashtable]	Hash-Tabelle, Sammlung von Schlüssel-Wert-Paaren
+[Switch]	PowerShell Switch-Parameter
+[XmlDocument]	XML-Dokument
+[PsObject]	PowerShell-Objekt
+[Regex]	Regular expression
+[ScriptBlock]	PowerShell script block
+[Guid]	Global eindeutige 32-Byte ID
+[Float]	Fließkommazahlen
+[wmi]	Windows Management Instrumentation (WMI) Instanz oder Sammlung
+[adsi]	Active Directory-Dienstobjekt
+[wmiclass]	WMI-Klasse
