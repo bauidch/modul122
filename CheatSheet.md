@@ -4,7 +4,7 @@
 - [Sequenz](#sequenz)
 - [Iteration](#iteration)
 - [Alternation](#alternation)
-- [Vergleichsoperatoren](#vergleichsoperatoren
+- [Vergleichsoperatoren](#vergleichsoperatoren)
 
 ##Sequenz
 ``` powershell
