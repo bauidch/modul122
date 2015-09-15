@@ -1,14 +1,24 @@
 #PowerShell Cheat Sheet
 
 ##Inhalt
-- Sequenz
-- Iteration
-- Alternation
+- [Sequenz](#sequenz)
+- [Iteration](#iteration)
+- [Alternation](#alternation)
 
-#Sequenz
+##Sequenz
+``` poershell
+$a = "white"
+if ($a -eq "red")
+	{"The colour is red"}
+elseif ($a -eq "white")
+	{"The colour is white"}
+else
+	{"Another colour"}
+
+```
 
 
-#Iteration
+##Iteration
 
 
-#Alternation
+##Alternation
