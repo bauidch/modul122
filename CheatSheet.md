@@ -4,6 +4,7 @@
 - [Sequenz](#sequenz)
 - [Iteration](#iteration)
 - [Alternation](#alternation)
+- [Vergleichsoperatoren](#vergleichsoperatoren
 
 ##Sequenz
 ``` powershell
@@ -24,3 +25,4 @@ else
 ```
 
 ##Alternation
+##Vergleichsoperatoren
