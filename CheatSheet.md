@@ -6,7 +6,14 @@
 - [Alternation](#alternation)
 
 ##Sequenz
-``` poershell
+``` powershell
+[int]$a = 32
+[int]$b = 55
+Write-Host ($a + $b)
+```
+
+##Iteration
+``` powershell
 $a = "white"
 if ($a -eq "red")
 	{"The colour is red"}
@@ -14,11 +21,6 @@ elseif ($a -eq "white")
 	{"The colour is white"}
 else
 	{"Another colour"}
-
 ```
-
-
-##Iteration
-
 
 ##Alternation
