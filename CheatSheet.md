@@ -28,9 +28,9 @@ else
 
 ##Vergleichsoperatoren
 
--eq	gleich
--ne	ungleich
--lt	kleiner
--le	kleiner oder gleich
--gt	größer
--ge	größer oder gleich
+-eq	gleich<br />
+-ne	ungleich<br />
+-lt	kleiner<br />
+-le	kleiner oder gleich<br />
+-gt	größer<br />
+-ge	größer oder gleich<br />
