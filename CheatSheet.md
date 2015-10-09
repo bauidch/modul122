@@ -25,4 +25,12 @@ else
 ```
 
 ##Alternation
+
 ##Vergleichsoperatoren
+
+-eq	gleich
+-ne	ungleich
+-lt	kleiner
+-le	kleiner oder gleich
+-gt	größer
+-ge	größer oder gleich
