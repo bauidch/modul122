@@ -5,6 +5,7 @@
 - [Iteration](#iteration)
 - [Alternation](#alternation)
 - [Vergleichsoperatoren](#vergleichsoperatoren)
+- [Funktion](#funktion)
 
 ##Sequenz
 ``` powershell
@@ -62,3 +63,14 @@ Foreach ($i in Get-Childitem c:\windows)
 -le	kleiner oder gleich<br />
 -gt	größer<br />
 -ge	größer oder gleich<br />
+
+##Funktion
+``` powershell
+function sum ([int]$a,[int]$b)
+{
+	return $a + $b
+}
+
+sum 4 5
+```
+
