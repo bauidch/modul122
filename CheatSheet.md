@@ -24,7 +24,35 @@ else
 	{"Another colour"}
 ```
 
-##Alternation
+``` powershell
+$a = "red"
+switch ($a)
+{	
+	"red" {"The colour is red"}
+	"white"{"The colour is white"}
+	default{"Another colour"}
+}
+
+```
+
+##Aternation
+
+####Fussgesteuert
+``` powershell
+Do {$a; $a++}
+Until ($a –gt 10)
+```
+``` powershell
+$a=1
+Do {$a; $a++}
+While ($a –lt 10)
+```
+
+####Zählschleife
+``` powershell
+Foreach ($i in Get-Childitem c:\windows)
+{$i.name; $i.creationtime}
+```
 
 ##Vergleichsoperatoren
 
