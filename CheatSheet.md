@@ -74,3 +74,9 @@ function sum ([int]$a,[int]$b)
 sum 4 5
 ```
 
+``` powershell
+function Time {
+	Get-Date
+}
+```
+
